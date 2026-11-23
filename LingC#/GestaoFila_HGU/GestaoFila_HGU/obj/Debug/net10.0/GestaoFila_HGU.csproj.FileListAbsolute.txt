@@ -1,0 +1,14 @@
+C:\Users\Silo Pedro\Desktop\LingC#\GestaoFila_HGU\GestaoFila_HGU\bin\Debug\net10.0\GestaoFila_HGU.exe
+C:\Users\Silo Pedro\Desktop\LingC#\GestaoFila_HGU\GestaoFila_HGU\bin\Debug\net10.0\GestaoFila_HGU.deps.json
+C:\Users\Silo Pedro\Desktop\LingC#\GestaoFila_HGU\GestaoFila_HGU\bin\Debug\net10.0\GestaoFila_HGU.runtimeconfig.json
+C:\Users\Silo Pedro\Desktop\LingC#\GestaoFila_HGU\GestaoFila_HGU\bin\Debug\net10.0\GestaoFila_HGU.dll
+C:\Users\Silo Pedro\Desktop\LingC#\GestaoFila_HGU\GestaoFila_HGU\bin\Debug\net10.0\GestaoFila_HGU.pdb
+C:\Users\Silo Pedro\Desktop\LingC#\GestaoFila_HGU\GestaoFila_HGU\obj\Debug\net10.0\GestaoFila_HGU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silo Pedro\Desktop\LingC#\GestaoFila_HGU\GestaoFila_HGU\obj\Debug\net10.0\GestaoFila_HGU.AssemblyInfoInputs.cache
+C:\Users\Silo Pedro\Desktop\LingC#\GestaoFila_HGU\GestaoFila_HGU\obj\Debug\net10.0\GestaoFila_HGU.AssemblyInfo.cs
+C:\Users\Silo Pedro\Desktop\LingC#\GestaoFila_HGU\GestaoFila_HGU\obj\Debug\net10.0\GestaoFila_HGU.csproj.CoreCompileInputs.cache
+C:\Users\Silo Pedro\Desktop\LingC#\GestaoFila_HGU\GestaoFila_HGU\obj\Debug\net10.0\GestaoFila_HGU.dll
+C:\Users\Silo Pedro\Desktop\LingC#\GestaoFila_HGU\GestaoFila_HGU\obj\Debug\net10.0\refint\GestaoFila_HGU.dll
+C:\Users\Silo Pedro\Desktop\LingC#\GestaoFila_HGU\GestaoFila_HGU\obj\Debug\net10.0\GestaoFila_HGU.pdb
+C:\Users\Silo Pedro\Desktop\LingC#\GestaoFila_HGU\GestaoFila_HGU\obj\Debug\net10.0\GestaoFila_HGU.genruntimeconfig.cache
+C:\Users\Silo Pedro\Desktop\LingC#\GestaoFila_HGU\GestaoFila_HGU\obj\Debug\net10.0\ref\GestaoFila_HGU.dll
